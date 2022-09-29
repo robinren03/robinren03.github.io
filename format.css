@@ -1,5 +1,5 @@
 /*
-Copyright (C) Christopher Batten and Zhiru Zhang
+Copyright (C) Christopher Batten, Zhiru Zhang and Yanyu Ren
 This should not be used for commercial proposes. 
 */
 
@@ -46,7 +46,7 @@ BODY
   /* translate 1.0em to 10px, 1.5em to 15px, etc. */
   font-size        : 63.125%;
   color            : #222;
-  background       : #a6a69d;
+  background       : #ffffe0;
   overflow-y       : scroll;
 }
 
@@ -190,7 +190,7 @@ DIV#content
   width            : 100%;
   margin           : 0em;
   padding          : 0em;
-  background       : #a6a69d;
+  background       : #ffffe0;
 }
 
 DIV#content-inner
