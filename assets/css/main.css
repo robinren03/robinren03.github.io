@@ -3558,7 +3558,7 @@ input, select, textarea {
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			min-height: 90%;
+			min-height: 100%;
 			opacity: 1;
 			width: 100%;
 		}
@@ -3824,7 +3824,6 @@ input, select, textarea {
 					align-items: stretch;
 					height: inherit;
 					line-height: inherit;
-					text-align: right;
 				}
 
 				#sidebar nav {
