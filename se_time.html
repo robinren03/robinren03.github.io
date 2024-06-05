@@ -25,7 +25,7 @@
     function updateTime() {
         var now = new Date();
         var beijingTime = now.toLocaleTimeString('en-US', {timeZone: 'Asia/Shanghai'});
-        var examEndTime = "考试结束时间 - 11:25";
+        var examEndTime = "考试结束时间 - 11:35";
         document.body.innerHTML = '<div>' + beijingTime + '</div>' + '<div class="exam-end-time">' + examEndTime + '</div>';
     }
     updateTime();
