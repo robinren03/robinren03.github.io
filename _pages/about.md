@@ -31,7 +31,7 @@ Education
 Experience
 ------
 - Unveisity of California, Berkeley
-  - Research Intern in [RISELab](https://rise.cs.berkeley.edu/), focusing on pipeline partition and dynamic scheduling, advised by Dr. [Lianmin Zheng](https://lmzheng.net/).
+  - Research Intern in [RISELab](https://rise.cs.berkeley.edu/), focusing on pipeline partition and dynamic scheduling, advised by Dr. [Lianmin Zheng](https://lmzheng.net/), Jun 2022 to Dec 2022.
 
 - Tsinghua University Student Supercomputing Team
   - Team member in [THUSCC](https://sc.team), win [SC21 SCC](https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/index.html) champion, focusing on GPU computing tasks, Jun 2021 to May 2023. 
@@ -49,7 +49,7 @@ Publications
 -----
 
 Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness\
-**Yanyu Ren**, Li Chen, Dan Li, Xizheng Wang, Zhiyuan Wu, Yukai Miao, Yu Bai..\
+**Yanyu Ren**, Li Chen, Dan Li, Xizheng Wang, Zhiyuan Wu, Yukai Miao, Yu Bai.\
 **[NeurIPS 2025]**. _The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025_.
 
 Towards Automatic Network Diagram Comprehension\
