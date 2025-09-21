@@ -30,18 +30,14 @@ Education
 
 Experience
 ------
-- Unveisity of California, Berkeley
-  - Research Intern in [RISELab](https://rise.cs.berkeley.edu/), focusing on pipeline partition and dynamic scheduling, advised by Dr. [Lianmin Zheng](https://lmzheng.net/), Jun 2022 to Dec 2022.
-
 - Tsinghua University Student Supercomputing Team
   - Team member in [THUSCC](https://sc.team), win [SC21 SCC](https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/index.html) champion, focusing on GPU computing tasks, Jun 2021 to May 2023. 
-
+- University of California, Berkeley
+  - Research Intern in [RISELab](https://rise.cs.berkeley.edu/), focusing on pipeline partition and dynamic scheduling, advised by Dr. [Lianmin Zheng](https://lmzheng.net/), Jun 2022 to Dec 2022.
 - Tsinghua University 
   - Research Intern in [PACMAN Lab](http://pacman.cs.tsinghua.edu.cn), advised by Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) and Dr. [Teng Yu](https://www.linkedin.com/in/teng-yu-07939186/), July 2020 to May 2022.
-
 - Cornell University
-  - Research Intern in [Computer Systems Lab](https://www.csl.cornell.edu/), advised by Prof. [Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/) Jan 2022 to May  2022. 
-
+  - Research Intern in [Computer Systems Lab](https://www.csl.cornell.edu/), advised by Prof. [Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/), Jan 2022 to May  2022. 
 - Alibaba Cloud
   - Research Intern in HPC Team, July 2021 to May 2022. 
 
