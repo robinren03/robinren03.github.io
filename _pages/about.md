@@ -48,7 +48,7 @@ Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness\
 **Yanyu Ren**, Li Chen, Dan Li, Xizheng Wang, Zhiyuan Wu, Yukai Miao, Yu Bai.\
 **[NeurIPS 2025]**. _The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025_.
 
-Towards Automatic Network Diagram Comprehension\
+Towards Automatic Network Diagram Comprehension [<i class="fas fa-file-pdf fa-lg"></i>](https://ieeexplore.ieee.org/document/11192381)\
 **Yanyu Ren**, Yukai Miao, Li Chen, Dan Li, Xizheng Wang, Yu Bai, Zhiyuan Wu, Fei Long.\
 **[ICNP 2025]**. _The 33rd IEEE International Conference on Network Protocols, 2025_.
 
