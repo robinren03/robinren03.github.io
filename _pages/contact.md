@@ -26,11 +26,13 @@ Acknowledgments
 
 I benefit a lot from conversations with my friends and collaborators. I always appreciate assistance from my friends and collaborators, including
 
-- [Xizheng Wang](https://wxzisk.github.io) @ Tsinghua University
+- [Xizheng Wang](https://wxzisk.github.io) , PhD. Candidate @ Tsinghua University
 
-- [Dr. Yukai Miao](https://tjumyk.github.io/about) @ Zhongguancun Laboratory
+- [Dr. Yukai Miao](https://tjumyk.github.io/about), Associate Researcher @ Zhongguancun Laboratory
 
-- [Yu Bai](https://openreview.net/profile?id=~Yu_Bai5) @ Zhongguancun Laboratory
+- [Yu Bai](https://openreview.net/profile?id=~Yu_Bai5), Engineer @ Zhongguancun Laboratory
+
+- [Dr. Kaihui Gao](https://gaokaihui.com), Assistant Researcher @ Zhongguancun Laboratory
 
   and many others.
 

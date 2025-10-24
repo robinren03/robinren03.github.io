@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third year Ph.D. student in the Department of Computer Science and Technology, Tsinghua University, NASP Lab, advised by Prof. [Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html). I also receive academic training at Zhongguancun Laboratory, advised by Dr. [Li Chen](https://li-ch.github.io/resume/) (Assistance Researcher) and Dr. [Kaihui Gao](https://gaokaihui.com/) (Assistant Researcher).
+I am currently a third year Ph.D. student in the Department of Computer Science and Technology, Tsinghua University, NASP Lab, advised by Prof. [Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html). I also receive academic training at Zhongguancun Laboratory, advised by Dr. [Li Chen](https://li-ch.github.io/resume/) (Associate Researcher) and Dr. [Shuai Wang](https://wangshuaizs.github.io) (Associate Researcher).
 
 My research interests fall on Machine Learning System (MLSys) and AI for Network Operations (AIOps) . My recent focus centers on multi-agent system, including efficient agent post-training paradigms and their usage in networking scenarios. 
 
@@ -21,7 +21,7 @@ Education
 
 - Tsinghua University
   - Bachelor of Engineering in Computer Science and Technology, Aug 2019 to Jun 2023. 
-  - Bachelor of Economics in Economic and Finance, Oct 2021 to Jun 2023.
+  - Bachelor of Economics in Economics and Finance, Oct 2021 to Jun 2023.
 
 - Cornell University
    - Exchange Student, Electrical and Computer Engineering, Jan 2022 to May 2022.
