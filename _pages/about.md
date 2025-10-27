@@ -64,6 +64,17 @@ Teaching
 - Teaching Assistant, _Software Engineering_, Spring 2024 and Spring 2023.
 - Teaching Assistant, _Writing and Communication_, Spring 2024.
 
+Awards
+-----
+- NeurIPS Scholar Award. 2025, NeurIPS Foundation.
+- Zhongguancun Laboratory Scholarship. 2025, Zhongguancun National Laboratory.
+- Comprehensive Excellence Award. 2021, 2024, Tsinghua University.
+- Valedictorian. 2023, School of Economics and Management, Tsinghua University.
+- Outstanding Graduate. 2023, Department of Computer Science and Technology, Tsinghua University.
+- Technological Innovation Award, 2022. Tsinghua University.
+- Social Service Award. 2022. Tsinghua University.
+- Academic Excellence Award. 2020, Tsinghua University.
+- Social Pratice Award. 2020, Tsinghua University.
 
 Services
 -----
