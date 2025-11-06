@@ -66,9 +66,9 @@ Teaching
 
 Awards
 -----
+- Comprehensive Excellence Award. Tsinghua University, 2021, 2024 and 2025.
 - NeurIPS Scholar Award. NeurIPS Foundation, 2025.
 - Zhongguancun Laboratory Scholarship. Zhongguancun National Laboratory, 2025.
-- Comprehensive Excellence Award. Tsinghua University, 2021 and 2024.
 - Valedictorian. School of Economics and Management, Tsinghua University, 2023.
 - Outstanding Graduate. Department of Computer Science and Technology, Tsinghua University, 2023.
 - Technological Innovation Award. Tsinghua University, 2022.
