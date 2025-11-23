@@ -78,5 +78,6 @@ Awards
 
 Services
 -----
+- Reviewer: CVPR 2025.
 - Student Volunteer: [CCF ChinaNet 2024](https://ccf.org.cn/chinanet2024)
 - Non-professional Volunteer: [3rd BRF](https://eng.yidaiyilu.gov.cn/z/230926/index.shtml)
