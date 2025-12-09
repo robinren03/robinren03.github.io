@@ -44,7 +44,7 @@ Experience
 Publications
 -----
 
-Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness\
+Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness [<i class="fas fa-file-pdf fa-lg"></i>](https://openreview.net/pdf?id=RmqWt1btxQ)\
 **Yanyu Ren**, Li Chen, Dan Li, Xizheng Wang, Zhiyuan Wu, Yukai Miao, Yu Bai.\
 **[NeurIPS 2025]**. _The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025_.
 
