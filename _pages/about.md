@@ -31,7 +31,7 @@ Education
 Experience
 ------
 - Tsinghua University Student Supercomputing Team
-  - Team member in [THUSCC](https://sc.team), win [SC21 SCC](https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/index.html) champion, focusing on GPU computing tasks, Jun 2021 to May 2023. 
+  - Team member of [THUSCC](https://sc.team), winning [SC21 SCC](https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/index.html) champion, focusing on GPU computing tasks, Jun 2021 to May 2023. 
 - University of California, Berkeley
   - Research Intern in [RISELab](https://rise.cs.berkeley.edu/), focusing on pipeline partition and dynamic scheduling, advised by Dr. [Lianmin Zheng](https://lmzheng.net/), Jun 2022 to Dec 2022.
 - Tsinghua University 
@@ -66,7 +66,7 @@ Teaching
 
 Awards
 -----
-- Comprehensive Excellence Award. Tsinghua University, 2021, 2024 and 2025.
+- Comprehensive Excellence Award. Tsinghua University, 2021, 2024, and 2025.
 - NeurIPS Scholar Award. NeurIPS Foundation, 2025.
 - Zhongguancun Laboratory Scholarship. Zhongguancun National Laboratory, 2025.
 - Valedictorian. School of Economics and Management, Tsinghua University, 2023.
@@ -74,7 +74,7 @@ Awards
 - Technological Innovation Award. Tsinghua University, 2022.
 - Social Service Award. Tsinghua University, 2022.
 - Academic Excellence Award. Tsinghua University, 2020.
-- Social Pratice Award. Tsinghua University, 2020.
+- Social Practice Award. Tsinghua University, 2020.
 
 Services
 -----
