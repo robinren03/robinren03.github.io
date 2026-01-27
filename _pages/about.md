@@ -52,6 +52,10 @@ Towards Automatic Network Diagram Comprehension [<i class="fas fa-file-pdf fa-lg
 **Yanyu Ren**, Yukai Miao, Li Chen, Dan Li, Xizheng Wang, Yu Bai, Zhiyuan Wu, Fei Long.\
 **[ICNP 2025]**. _The 33rd IEEE International Conference on Network Protocols, 2025_.
 
+ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents [<i class="fas fa-file-pdf fa-lg"></i>](https://openreview.net/pdf?id=oEVfNf0w4B)\
+Hanyu Lai, Xiao Liu, Yanxiao Zhao, Han Xu, Hanchen Zhang, Bohao Jing, **Yanyu Ren**, Shuntian Yao, Yuxiao Dong, Jie Tang.\
+**[ICLR 2026]**. _The Fourteenth International Conference on Learning Representations, 2026_.
+
 Critique of “A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery” by SCC Team From Tsinghua University [<i class="fas fa-file-pdf fa-lg"></i>](https://ieeexplore.ieee.org/document/9903548)\
 Juncheng Cao, Kaiyuan Rong, Mingshu Zhai, Zeyu Song, **Yanyu Ren**, Yuxi Zhu, Wentao Han, Jidong Zhai. \
 **[IEEE TPDS]**. _IEEE Transactions on Parallel and Distributed Systems, 2022_.
@@ -60,7 +64,7 @@ Please refer to our pre-prints on my [Google Scholar](https://scholar.google.com
 
 Teaching
 -----
-- Head of Teaching Assistant, _Software Engineering_, Spring 2025.
+- Head of Teaching Assistant, _Software Engineering_, Spring 2026 and Spring 2025.
 - Teaching Assistant, _Software Engineering_, Spring 2024 and Spring 2023.
 - Teaching Assistant, _Writing and Communication_, Spring 2024.
 
@@ -78,6 +82,6 @@ Awards
 
 Services
 -----
-- Reviewer: CVPR 2025.
+- Reviewer: CVPR 2026, ECCV 2026.
 - Student Volunteer: [CCF ChinaNet 2024](https://ccf.org.cn/chinanet2024)
 - Non-professional Volunteer: [3rd BRF](https://eng.yidaiyilu.gov.cn/z/230926/index.shtml)
