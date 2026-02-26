@@ -64,7 +64,7 @@ Please refer to our pre-prints on my [Google Scholar](https://scholar.google.com
 
 Teaching
 -----
-- Head of Teaching Assistant, _Software Engineering_, Spring 2026 and Spring 2025.
+- Chief Teaching Assistant, _Software Engineering_, Spring 2026 and Spring 2025.
 - Teaching Assistant, _Software Engineering_, Spring 2024 and Spring 2023.
 - Teaching Assistant, _Writing and Communication_, Spring 2024.
 
