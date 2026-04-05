@@ -11,7 +11,28 @@ I am currently a third year Ph.D. student in the Department of Computer Science 
 
 My research interests fall on Machine Learning System (MLSys) and AI for Network Operations (AIOps) . My recent focus centers on multi-agent system, including efficient agent post-training paradigms and their usage in networking scenarios. 
 
-Before I started my Ph.D., I received B.E. and B.Ec. at Tsinghua University in June 2023.
+I received B.E. and B.Ec. at Tsinghua University in June 2023.
+
+Publications
+-----
+
+Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness [<i class="fas fa-file-pdf fa-lg"></i>](https://openreview.net/pdf?id=RmqWt1btxQ)\
+**Yanyu Ren**, Li Chen, Dan Li, Xizheng Wang, Zhiyuan Wu, Yukai Miao, Yu Bai.\
+**[NeurIPS 2025]**. _The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025_.
+
+Towards Automatic Network Diagram Comprehension [<i class="fas fa-file-pdf fa-lg"></i>](https://ieeexplore.ieee.org/document/11192381)\
+**Yanyu Ren**, Yukai Miao, Li Chen, Dan Li, Xizheng Wang, Yu Bai, Zhiyuan Wu, Fei Long.\
+**[ICNP 2025]**. _The 33rd IEEE International Conference on Network Protocols, 2025_.
+
+ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents [<i class="fas fa-file-pdf fa-lg"></i>](https://openreview.net/pdf?id=oEVfNf0w4B)\
+Hanyu Lai, Xiao Liu, Yanxiao Zhao, Han Xu, Hanchen Zhang, Bohao Jing, **Yanyu Ren**, Shuntian Yao, Yuxiao Dong, Jie Tang.\
+**[ICLR 2026]**. _The Fourteenth International Conference on Learning Representations, 2026_.
+
+Critique of “A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery” by SCC Team From Tsinghua University [<i class="fas fa-file-pdf fa-lg"></i>](https://ieeexplore.ieee.org/document/9903548)\
+Juncheng Cao, Kaiyuan Rong, Mingshu Zhai, Zeyu Song, **Yanyu Ren**, Yuxi Zhu, Wentao Han, Jidong Zhai. \
+**[IEEE TPDS]**. _IEEE Transactions on Parallel and Distributed Systems, 2022_.
+
+Please refer to our pre-prints on my [Google Scholar](https://scholar.google.com/citations?user=dYqHYYoAAAAJ)
 
 
 Education
@@ -40,27 +61,6 @@ Experience
   - Research Intern in [Computer Systems Lab](https://www.csl.cornell.edu/), advised by Prof. [Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/), Jan 2022 to May  2022. 
 - Alibaba Cloud
   - Research Intern in HPC Team, July 2021 to May 2022. 
-
-Publications
------
-
-Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness [<i class="fas fa-file-pdf fa-lg"></i>](https://openreview.net/pdf?id=RmqWt1btxQ)\
-**Yanyu Ren**, Li Chen, Dan Li, Xizheng Wang, Zhiyuan Wu, Yukai Miao, Yu Bai.\
-**[NeurIPS 2025]**. _The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025_.
-
-Towards Automatic Network Diagram Comprehension [<i class="fas fa-file-pdf fa-lg"></i>](https://ieeexplore.ieee.org/document/11192381)\
-**Yanyu Ren**, Yukai Miao, Li Chen, Dan Li, Xizheng Wang, Yu Bai, Zhiyuan Wu, Fei Long.\
-**[ICNP 2025]**. _The 33rd IEEE International Conference on Network Protocols, 2025_.
-
-ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents [<i class="fas fa-file-pdf fa-lg"></i>](https://openreview.net/pdf?id=oEVfNf0w4B)\
-Hanyu Lai, Xiao Liu, Yanxiao Zhao, Han Xu, Hanchen Zhang, Bohao Jing, **Yanyu Ren**, Shuntian Yao, Yuxiao Dong, Jie Tang.\
-**[ICLR 2026]**. _The Fourteenth International Conference on Learning Representations, 2026_.
-
-Critique of “A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery” by SCC Team From Tsinghua University [<i class="fas fa-file-pdf fa-lg"></i>](https://ieeexplore.ieee.org/document/9903548)\
-Juncheng Cao, Kaiyuan Rong, Mingshu Zhai, Zeyu Song, **Yanyu Ren**, Yuxi Zhu, Wentao Han, Jidong Zhai. \
-**[IEEE TPDS]**. _IEEE Transactions on Parallel and Distributed Systems, 2022_.
-
-Please refer to our pre-prints on my [Google Scholar](https://scholar.google.com/citations?user=dYqHYYoAAAAJ)
 
 Teaching
 -----
