@@ -17,7 +17,7 @@ Publications
 -----
 Networked Agent Memory and Causality Representation: Experiences towards Interpretable Cloud-Scale Root-Causing \
 **Yanyu Ren**, Xianshang Lin, Chenxu Wang, Li Chen, Shuai Wang, Kaihui Gao, Dan Li, Yunfeng Bai, Chen Tian, Xinlei Zhang, Yungang Li, Tao Lin, Ennan Zhai.\
-**[SIGCOMM 2026]**. _Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, 2026_.
+**[SIGCOMM 2026]**. _ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, 2026_.
 
 Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness [<i class="fas fa-file-pdf fa-lg"></i>](https://openreview.net/pdf?id=RmqWt1btxQ)\
 **Yanyu Ren**, Li Chen, Dan Li, Xizheng Wang, Zhiyuan Wu, Yukai Miao, Yu Bai.\
