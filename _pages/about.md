@@ -85,6 +85,6 @@ Awards
 
 Services
 -----
-- Reviewer: CVPR 2026, ECCV 2026.
+- Reviewer: NeurIPS 2026, CVPR 2026, ECCV 2026.
 - Student Volunteer: [CCF ChinaNet 2024](https://ccf.org.cn/chinanet2024)
 - Non-professional Volunteer: [3rd BRF](https://eng.yidaiyilu.gov.cn/z/230926/index.shtml)
