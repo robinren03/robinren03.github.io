@@ -73,6 +73,8 @@ Teaching
 
 Awards
 -----
+- Outstanding Student Cadre (优秀学生干部). Tsinghua University, 2026.
+- Model Student (三好学生). Tsinghua University, 2026.
 - Comprehensive Excellence Award. Tsinghua University, 2021, 2024, and 2025.
 - NeurIPS Scholar Award. NeurIPS Foundation, 2025.
 - Zhongguancun Laboratory Scholarship. Zhongguancun National Laboratory, 2025.
