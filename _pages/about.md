@@ -27,6 +27,10 @@ Towards Automatic Network Diagram Comprehension [<i class="fas fa-file-pdf fa-lg
 **Yanyu Ren**, Yukai Miao, Li Chen, Dan Li, Xizheng Wang, Yu Bai, Zhiyuan Wu, Fei Long.\
 **[ICNP 2025]**. _The 33rd IEEE International Conference on Network Protocols, 2025_.
 
+Communication-Efficient Distributed Inference for Video Diffusion Models with Latent Parallelism\
+Zhiyuan Wu, Shuai Wang, Li Chen, Kaihui Gao, Dan Li, **Yanyu Ren**, Qiming Zhang, Yong Wang.\
+**[NSDI 2027]**. _The 24th USENIX Symposium on Networked Systems Design and Implementation, 2027_.
+
 ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents [<i class="fas fa-file-pdf fa-lg"></i>](https://openreview.net/pdf?id=oEVfNf0w4B)\
 Hanyu Lai, Xiao Liu, Yanxiao Zhao, Han Xu, Hanchen Zhang, Bohao Jing, **Yanyu Ren**, Shuntian Yao, Yuxiao Dong, Jie Tang.\
 **[ICLR 2026]**. _The Fourteenth International Conference on Learning Representations, 2026_.
