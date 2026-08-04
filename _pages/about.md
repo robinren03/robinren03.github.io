@@ -75,10 +75,10 @@ Teaching
 - Teaching Assistant, _Software Engineering_, Spring 2024 and Spring 2023.
 - Teaching Assistant, _Writing and Communication_, Spring 2024.
 
-Awards
+Awards and Honors
 -----
-- Outstanding Student Cadre (优秀学生干部). Tsinghua University, 2026.
-- Model Student (三好学生). Tsinghua University, 2026.
+- Outstanding Student Cadre. Tsinghua University, 2026.
+- Model Student. Tsinghua University, 2026.
 - Comprehensive Excellence Award. Tsinghua University, 2021, 2024, and 2025.
 - NeurIPS Scholar Award. NeurIPS Foundation, 2025.
 - Zhongguancun Laboratory Scholarship. Zhongguancun National Laboratory, 2025.
