@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third year Ph.D. student in the Department of Computer Science and Technology, Tsinghua University, NASP Lab, advised by Prof. [Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html). I also receive academic training at Zhongguancun Laboratory, advised by Dr. [Li Chen](https://li-ch.github.io/resume/) (Associate Researcher) and Dr. [Shuai Wang](https://wangshuaizs.github.io) (Associate Researcher).
+I am currently a 4th-year Ph.D. student in the Department of Computer Science and Technology, Tsinghua University, NASP Lab, advised by Prof. [Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html). I also receive academic training at Zhongguancun Laboratory, advised by Dr. [Li Chen](https://li-ch.github.io/resume/) (Associate Researcher) and Dr. [Shuai Wang](https://wangshuaizs.github.io) (Associate Researcher).
 
 My research interests fall on Machine Learning System (MLSys) and AI for Network Operations (AIOps) . My recent focus centers on multi-agent system, including efficient agent post-training paradigms and their usage in networking scenarios. 
 
@@ -19,7 +19,7 @@ Networked Agent Memory and Causality Representation: Experiences towards Interpr
 **Yanyu Ren**, Xianshang Lin, Chenxu Wang, Li Chen, Shuai Wang, Kaihui Gao, Dan Li, Yunfeng Bai, Chen Tian, Xinlei Zhang, Yungang Li, Tao Lin, Ennan Zhai.\
 **[SIGCOMM 2026]**. _ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, 2026_.
 
-Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness [<i class="fas fa-file-pdf fa-lg"></i>](https://openreview.net/pdf?id=RmqWt1btxQ)\
+Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness [<i class="fas fa-file-pdf fa-lg"></i>](https://www.proceedings.com/085713-0097.html)\
 **Yanyu Ren**, Li Chen, Dan Li, Xizheng Wang, Zhiyuan Wu, Yukai Miao, Yu Bai.\
 **[NeurIPS 2025]**. _The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025_.
 
