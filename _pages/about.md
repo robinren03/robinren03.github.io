@@ -15,7 +15,7 @@ I received B.E. and B.Ec. at Tsinghua University in June 2023.
 
 Publications
 -----
-Networked Agent Memory and Causality Representation: Experiences towards Interpretable Cloud-Scale Root-Causing \
+Networked Agent Memory and Causality Representation: Experiences towards Interpretable Cloud-Scale Root-Causing  [<i class="fas fa-file-pdf fa-lg"></i>](https://dl.acm.org/doi/10.1145/3789240.3829145)\
 **Yanyu Ren**, Xianshang Lin, Chenxu Wang, Li Chen, Shuai Wang, Kaihui Gao, Dan Li, Yunfeng Bai, Chen Tian, Xinlei Zhang, Yungang Li, Tao Lin, Ennan Zhai.\
 **[SIGCOMM 2026]**. _ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, 2026_.
 
