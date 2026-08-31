@@ -32,7 +32,7 @@ I benefit a lot from conversations with the following researchers and my previou
 
 - [Dr. Kaihui Gao](https://gaokaihui.com), Associate Researcher @ Zhongguancun Laboratory
 
-- [Dr. Shuai Wang](https://wangshuaizs.github.io_, Associate Researcher @ Zhongguancun Laboratory
+- [Dr. Shuai Wang](https://wangshuaizs.github.io), Associate Researcher @ Zhongguancun Laboratory
 
   and many others.
 
