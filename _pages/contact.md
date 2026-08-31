@@ -24,15 +24,15 @@ Beijing, P.R. CHINA, 100084
 Acknowledgments
 -----
 
-I benefit a lot from conversations with my friends and collaborators. I always appreciate assistance from my friends and collaborators, including
-
-- [Dr. Xizheng Wang](https://wxzisk.github.io), Assistant Researcher @ Zhongguancun Laboratory (Congrats to Dr. Wang！🎉🎉🎉)
+I benefit a lot from conversations with the following researchers and my previous advisors, including
 
 - [Dr. Yukai Miao](https://tjumyk.github.io/about), Associate Researcher @ Zhongguancun Laboratory
 
 - [Yu Bai](https://openreview.net/profile?id=~Yu_Bai5), Engineer @ Zhongguancun Laboratory
 
 - [Dr. Kaihui Gao](https://gaokaihui.com), Associate Researcher @ Zhongguancun Laboratory
+
+- [Dr. Shuai Wang](https://wangshuaizs.github.io_, Associate Researcher @ Zhongguancun Laboratory
 
   and many others.
 
