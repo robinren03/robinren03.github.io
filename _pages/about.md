@@ -27,6 +27,10 @@ Towards Automatic Network Diagram Comprehension [<i class="fas fa-file-pdf fa-lg
 **Yanyu Ren**, Yukai Miao, Li Chen, Dan Li, Xizheng Wang, Yu Bai, Zhiyuan Wu, Fei Long.\
 **[ICNP 2025]**. _The 33rd IEEE International Conference on Network Protocols, 2025_.
 
+SCALECUA : Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL\
+Bowen Lv, Xiao Liu, **Yanyu Ren**, Hanyu Lai, Bohao Jing, Hanchen Zhang, Yanxiao Zhao, Shuntian Yao, Jie Tang, Yuxiao Dong.\
+**[NeurIPS 2026]**. _The Fortieth Annual Conference on Neural Information Processing Systems, 2026_.
+
 Communication-Efficient Distributed Inference for Video Diffusion Models with Latent Parallelism\
 Zhiyuan Wu, Shuai Wang, Li Chen, Kaihui Gao, Dan Li, **Yanyu Ren**, Qiming Zhang, Yong Wang.\
 **[NSDI 2027]**. _The 24th USENIX Symposium on Networked Systems Design and Implementation, 2027_.
